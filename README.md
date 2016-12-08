@@ -15,4 +15,5 @@ Creating a mysql table
 CREATE TABLE `bstore` (
   `name` longtext,
   `image` longblob
-);```
+);
+```
