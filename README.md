@@ -17,3 +17,10 @@ CREATE TABLE `bstore` (
   `image` longblob
 );
 ```
+
+## OR for Oracle
+
+```CREATE TABLE bstore
+( name CLOB,
+  image BLOB
+);```
