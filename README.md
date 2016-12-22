@@ -20,7 +20,4 @@ CREATE TABLE `bstore` (
 
 ## OR for Oracle
 
-```CREATE TABLE bstore
-( name CLOB,
-  image BLOB
-);```
+```CREATE TABLE bstore ( name varchar2(200), image BLOB );```
